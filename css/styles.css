@@ -75,7 +75,6 @@ hr {
 
 .top-container {
   background-image: var(--header-bg);
-  height: 105vh;
   padding-top: 150px;
   position: relative;
 }
@@ -112,32 +111,32 @@ hr {
 
 .heart-img {
   position: absolute;
-  top: 2vh;
-  left: 44vw;
+  top: 2%;
+  left: 44%;
 }
 
 .flask-img {
   position: absolute;
-  right: 14vw;
-  top: 33vh;
+  right: 14%;
+  top: 33%;
 }
 
 .microscope-img {
   position: absolute;
-  right: 10vw;
-  top: 70vh;
+  right: 10%;
+  top: 70%;
 }
 
 .bag-img {
   position: absolute;
-  left: 14vw;
-  top: 33vh;
+  left: 14%;
+  top: 33%;
 }
 
 .sthetoscope-img {
   position: absolute;
-  left: 10vw;
-  top: 70vh;
+  left: 10%;
+  top: 70%;
 }
 
 /************ MIDDLE-CONTAINER *************/
